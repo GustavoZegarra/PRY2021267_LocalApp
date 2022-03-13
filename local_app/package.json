@@ -9,6 +9,7 @@
   "author": "Gustavo Zegarra & Fernando Valdiviezo",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.26.1",
     "mqtt": "^4.3.5"
   }
 }
